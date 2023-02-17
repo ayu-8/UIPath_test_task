@@ -1,0 +1,4 @@
+mailing_params.json
+*.xlsx
+.*
+!.gitignore
